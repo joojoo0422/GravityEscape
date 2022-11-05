@@ -1,4 +1,9 @@
 # GravityEscape
+This game was created by using Unity platform.
+
+## Launch
+To launch the game, visit:
+[link] https://joojoo0422.github.io/GravityEscape/
 
 ## Directions
 Escape the trail by flipping gravity.
